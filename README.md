@@ -130,6 +130,8 @@ Normal
 
 ---
 
-## Autor
+##Integrantes
+Lucas Gazolla
+Nick Santos
 
 Projeto desenvolvido como exercício prático de programação em **Java**.
